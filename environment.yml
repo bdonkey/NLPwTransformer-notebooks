@@ -1,4 +1,4 @@
-name: book
+name: NPLTHFbook
 channels:
   - pytorch
   - defaults
